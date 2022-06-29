@@ -5,3 +5,22 @@ token github
 comandos
 
 git clone https://github.com/eliasZX32/cat83.com.git
+
+git init -> Cria o repositório na pasta especificada
+
+git status -> verifica o que está armazenado no container. vê as condições dos arquivos se já foram armazenados (em verde) ou não (em vermelho)
+
+git add – > adiciona os arquivos no container (ficaram em verde no git status)
+
+git log -> mostra o commit (comentário) feito, o autor e a data
+git log –oneline -> exibe de forma mais simplificada o commits, exibe somente os commits
+
+git remote add origin https://…. -> Você conecta um hub como por exemplo o github.com a sua pasta repositório. Na parte depois de origin vc coloca o link dado pelo site hub.
+Antes de tudo vc precisa criar o repositório no site.
+
+git remote-v -> mostra o repositório o qual está conectado (se existir algum conectado, é claro)
+
+git push -u origin master -> joga o que foi feito no git para o github (ou outro site, no caso)
+
+
+git add -u nomearquivoexcluir
