@@ -38,7 +38,9 @@
 		<header class="header white-bg">
 			<div class="navbar-header">
 				<a href="index.php" class="logo"><image src="logo.png" style="margin-top: -10px;" width="70"></image></span></a>
+				
 				<nav class="horizontal-menu navbar navbar-expand-md navbar-light ">
+				
 					<button class="navbar-toggler" type="button" data-toggle="collapse"
 						data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
 						aria-expanded="false" aria-label="Toggle navigation">
@@ -87,9 +89,15 @@
 								</div>
 						</div>
 
-
-
 					</div>
+
+				</nav>
+				<div id="lista_clientes">
+			    	<select style='float:right; margin-top: 15px;' id='cod_cliente'>;
+				    	<option value=''>Selecione o cliente</option>
+				    </select>";
+				</div>
+
 			</div>
 		</header>
 
@@ -141,8 +149,18 @@
 					paginationSpeed: 400,
 					singleItem: true,
 					autoPlay: true
-
 				});
+
+				$.ajax({
+					url: 'carrega_clientes.php',
+					async: true,
+					type: 'post',
+					data: { cod_cliente: document.getElementById("cod_cliente").value }
+				}).done(function (data) {					
+					document.getElementById("lista_clientes").innerHTML = data;
+				}).fail(function (xhr, textStatus, errorThrown) {
+				});				
+
 			});
 
 			//custom select box
@@ -156,8 +174,24 @@
 					async: false,
 				}).done(function (data) {
 					$('#viewCurrent').html(data);
-				});
-			}
-		</script>
+				}).fail(function (xhr, textStatus, errorThrown) {
 
+				});	
+
+			}
+
+			function selecione_cliente() {
+				$.ajax({
+					url: 'selecione_cliente.php',
+					async: true,
+					type: 'post',
+					data: { cod_cliente: document.getElementById("cod_cliente").value }
+				}).done(function (data) {
+					$('#viewCurrent').html("");
+				}).fail(function (xhr, textStatus, errorThrown) {
+				});	
+
+			}
+
+		</script>
 </body>

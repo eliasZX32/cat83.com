@@ -11645,52 +11645,123 @@
 |9900|9900|57|
 |9990|60|
 |9999|11647|
-SBRCAAEPDR0€	*†H†÷ €0€10	+ 0€	*†H†÷ €$€t\‰Â¬æÊESª±»žÊËÖ‰       €0‚z0‚b 0	*†H†÷ 010	UBR10U
+SBRCAAEPDR0€	*†H†÷
+ €0€10	+ 0€	*†H†÷
+ €$€t\‰Â¬æÊESª±»žÊËÖ‰       €0‚z0‚b 0
+	*†H†÷
+
+ 010	UBR10U
 
-ICP-Brasil1402U+Autoridade Certificadora Raiz Brasileira v21604U-AC Secretaria da Receita Federal do Brasil v30111216133942Z191216133942Z0u10	UBR10U
+ICP-Brasil1402U+Autoridade Certificadora Raiz Brasileira v21604U-AC Secretaria da Receita Federal do Brasil v30
+111216133942Z
+191216133942Z0u10	UBR10U
 
-ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10UAC SERASA RFB v20‚"0	*†H†÷ ‚ 0‚
+ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10UAC SERASA RFB v20‚"0
+	*†H†÷
+ ‚ 0‚
 ‚ ááÑ^¢ê»ßˆ,Û xèà#
-kCõÎ	×º)k¯rV‚è	8Gpº‘_9O„²åyÈÑ£Ž¬¿0zÁâZ®ÏéOWƒ •¸alå\ß;aË 0ÊÔÆ'HÏðâÉÉxl4»G’ÀûÐ?…®‰jd%ÂR§ØnÇ®ÞZë4–
+kC
+õÎ	×º)k¯rV‚è	8Gpº‘_9O„²åyÈÑ£Ž¬¿0zÁâZ®ÏéOWƒ •¸alå\ß;aË 0ÊÔÆ'HÏðâÉÉxl4»G’ÀûÐ?…®‰jd%ÂR§ØnÇ®ÞZë4–
 Š3+­K(±Éî}ò~Ý'œàoÇœÌD®Žmè º4Ý@†£8Ê†U:û3›Ì*®ƒÖþ~‚Vécº^³KbBc»ÃQÿx
-N‹“Ò ë°9ÈÌúvò(­AHÝ Bý#ò.î·†b°zJÍ~"O×¨»C¹úÐ—¯š]úž¤ŠªŒÚ^2v˜0tÙ§cióóy‘sƒxyDÓfö’þŠî=.wR!7èÁxŒGÞ¸pâSÔsº±mÚ‰Ö»ïÃÅxÚŽ(E\ž:¤\\ÎÂ#5‡¤°…0þ*TE÷*öÚJÍB7üÅ¥ ˆ°çwGÝÆ#ÔÒI¸Ø€BtiÜ•.žlúœ·x	ÐQ«šaâMHæó	6ß/ÓøÄÀ!"¸h¼8£ñ@÷ÿªw@…f)Géµó¹ï6“D?J×¢öžœÙqn9ÏMh©0@’ø¾>ƒ7m)B%ã¿4dà¶n6'1þT»R•‹?­Ë\4FU £‚÷0‚ó0‚EU ‚<0‚80L`L0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0L`L0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0L`L
-0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0L`L0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0DU=0;09 7 5†3http://www.receita.fazenda.gov.br/acrfb/acrfbv3.crl0U#0€uËºÑÎL§’ðq°Ë¾¸{3²(0U² Ä=Fž|È…l2”eFpAs0Uÿ0ÿ 0Uÿ0	*†H†÷ ‚ ”¤9h.!rZôiÖÊê\ªUý»ÎÅ¶éz”¯{,E¦/¼¬;ÔLB-r!¨HöTJ_Y¢§Ó«ßòfúÉsSñÀåtå\ÄèrÎzLGóp`†_¿}ñŒ¶¯xN`GÃ>¾3")@Ó¼Ø‰eB+ÿþŸ×í#õÔD“ïâ9À52Ó˜ˆH°ø{DDÉ]Ï¥ŸlÈV›F•ÌØÝãC^‚î;àKx+W%j$É`f®$¾Ç²€iëúçÑÂu×s@ÚÙÔ5^Ûå\¶L8ÜjU/ßx‰æ?ó¦€•ÎÑÐNZ¡±÷—5¡1Ä-‹Ý…œø™æWu³uêagt¸jÕµ%aËŠ/½6‹ˆÏŽaéf:4ñ”Ò”#Àø`W¸ü—ÕŠ/%-cË-Ú"ÔÐ¹@þge£xX÷Å&ÕcC‘€ÁHb ß°œi)›Š4N(ÄTmOyÅ·gù‡lRú½¥Î£mì“º?¬ÃÌú7ñvƒ…ôÀhšð:]Ä·(G†ééBùpH±øQ'[]HÖº?‚HÒQ¯*#˜}$B>h}ENªâæ<(œ¬¼*•iÀrÚÄp¢ à¡\ûk[±wÓ›3Ð`uxàÞËK©sjë;’7¿®¬T[u¢ÚÍéÙ%a3´{«Â`Ï¨.‡0‚¡0‚‰ 0	*†H†÷ 0—10	UBR10U
+N‹“Ò ë°9ÈÌúvò(­AHÝ Bý#ò.î·†b°zJÍ~"O×¨»C¹úÐ—¯š]úž¤ŠªŒÚ^2v˜0tÙ§cióóy‘sƒxyDÓfö’þŠî=.wR!7èÁxŒGÞ¸pâSÔsº±mÚ‰Ö»ï
+ÃÅxÚŽ(E\ž:¤\\ÎÂ#5‡¤°…0þ*TE
+÷*öÚJÍB7üÅ¥ ˆ°çwGÝÆ#ÔÒI¸Ø€BtiÜ•.žlúœ·x	ÐQ«šaâMHæó	6ß/ÓøÄÀ!"¸h¼8£ñ@÷ÿªw@…f)Géµó¹ï6“D?J×¢öžœÙqn9ÏMh©0@’ø¾>ƒ7m)B%ã¿4dà¶n6'1þT»R•‹?­Ë\4FU £‚÷0‚ó0‚EU ‚<0‚80L`L
+0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0L`L0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0L`L
+0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0L`L0B0@+4http://www.receita.fazenda.gov.br/acrfb/dpcacrfb.pdf0DU=0;09 7 5†3http://www.receita.fazenda.gov.br/acrfb/acrfbv3.crl0U#0€uËºÑÎL§’ðq°Ë¾¸{3²(0U² Ä=Fž|È…l2”eFpAs0Uÿ0ÿ 0Uÿ0
+	*†H†÷
+
+ ‚ ”¤9h.!rZôiÖÊê\ªUý»ÎÅ¶éz”¯{,E¦/¼¬;ÔLB-r!¨HöTJ_Y¢§Ó«ßòfúÉsSñÀåtå\ÄèrÎzLGóp`†_¿}ñŒ¶¯xN`GÃ>¾3")@Ó¼Ø‰eB+ÿþŸ×í#õÔD“ïâ9À52Ó˜ˆH°ø{DDÉ]Ï¥ŸlÈV›F•ÌØÝãC^‚î;àKx+W%j$É`
+f®$¾Ç²€iëúçÑÂu×s@ÚÙÔ5^Ûå\¶L8ÜjU/ßx‰æ?ó¦€•ÎÑÐNZ¡±÷—5¡1Ä-‹Ý…œø™æWu³uêagt¸jÕµ%aËŠ/½6‹ˆÏŽaéf:4ñ”Ò”#Àø`W¸ü—ÕŠ/%-cË-Ú"ÔÐ¹@þge£xX÷Å&ÕcC‘€ÁHb ß°œi)›Š4N(ÄTmOyÅ·gù‡lRú½¥Î£mì“º?¬ÃÌú7ñvƒ…ôÀhšð:]Ä·(G†ééBùpH±øQ'[]HÖº?‚HÒQ¯*#˜}$B>h}ENªâæ<(œ¬¼*•iÀrÚÄp¢ à¡\ûk[±wÓ›3Ð`uxàÞËK©sjë;’7¿®¬T[u¢ÚÍéÙ%a3´{«Â`Ï¨.‡0‚¡0‚‰ 0
+	*†H†÷
+
+ 0—10	UBR10U
 
-ICP-Brasil1=0;U4Instituto Nacional de Tecnologia da Informacao - ITI1402U+Autoridade Certificadora Raiz Brasileira v20100621190457Z230621190457Z0—10	UBR10U
+ICP-Brasil1=0;U4Instituto Nacional de Tecnologia da Informacao - ITI1402U+Autoridade Certificadora Raiz Brasileira v20
+100621190457Z
+230621190457Z0—10	UBR10U
 
-ICP-Brasil1=0;U4Instituto Nacional de Tecnologia da Informacao - ITI1402U+Autoridade Certificadora Raiz Brasileira v20‚"0	*†H†÷ ‚ 0‚
+ICP-Brasil1=0;U4Instituto Nacional de Tecnologia da Informacao - ITI1402U+Autoridade Certificadora Raiz Brasileira v20‚"0
+	*†H†÷
+ ‚ 0‚
 ‚ ºF¤Ýç@òµ |R•WEüm„ó†É…­˜«Òò^™É»obgýwD¹<Ò bÔp,Bƒyf«™V®¼jI½ótb·ë[f”B$F¬šB0ð$¨QAê«•ñ¨+xiµ)'^œ.sÆþ#¥ã¦Îýlk Të ­O:L<ç
 ˆ[Ú^šVäµT8ò
-“dNÃA’S *ÏütnÔÛ38bäþŽLX÷*MÿÅ’Ù	R½Ïp iš3jˆ‡E!™Q4ß‚½´i¨||ÔÝÓò\KÅXê…Ë6"X*rš–ÞÊÏQa¿´)+†þéMÃGËÏvÙq¦‡{@ä3€x¤òŽ›@;ÉrPßi¾ð,–µÕ®tãe´Œéjûr\Å‚TêàSÄÌé÷Þ×/ÔH/G?&a±š3kµ†K+Ð†Gíiûü„føVåŠlvÄkzÂ ZÑ#‰X|XÚŽÙ~}7¶¤Eõ…ÌGú‹yE¸fb3Ó&JÞéÔæm&¹<}Í(
-)›Ýc«¹¦G„×…¤eKRƒ4B1Ž.æ³g•@~—z@ ùlƒ8X­3[¦ÄÁÅ°¬©ð¦i4¶éø”HO>¦u	ìJÅ;àÉ^°2ÿŸiYÏ<0oÎ'WìZhÿìOox2>yÅ´]• £õ0ò0NU G0E0C`L 0:08+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0?U80604 2 0†.http://acraiz.icpbrasil.gov.br/LCRacraizv2.crl0U#0€9 :·Ë×(}A ÇúJ­2$¾0U9 :·Ë×(}A ÇúJ­2$¾0Uÿ0ÿ0Uÿ0	*†H†÷ ‚ Yšim})Cp}v›aßwŽvä©ÖËv¤L”ÆÑÅ­Ù-D¼²	v	€9g 4m
+“dNÃA’S *ÏütnÔÛ38bäþŽLX÷*MÿÅ’Ù	R½Ïp iš3jˆ‡E!™Q
+4ß‚½´i¨||ÔÝÓò\KÅXê…Ë6"X*rš–ÞÊÏQa¿´)+†þéMÃGËÏvÙq¦‡{@ä3€x¤òŽ›@;ÉrPßi¾ð,–µÕ®tãe´Œéjûr\Å‚TêàSÄÌé÷Þ×/ÔH/G?&a±š3kµ†K+Ð†Gíiûü„føVåŠlvÄkzÂ ZÑ#‰X|XÚŽÙ~}7¶¤Eõ…ÌGú‹yE¸fb3Ó&JÞéÔæm&¹<}Í(
+)›Ýc«¹¦G„×…¤eKRƒ4B1Ž.æ³g•@~—z@ ùlƒ8X­3[¦ÄÁÅ°¬
+©ð¦i4¶éø”HO>¦u	ìJÅ;àÉ^°2ÿŸiYÏ<0o
+Î'WìZhÿìOox2>yÅ´]• £õ0ò0NU G0E0C`L 0:08+,http://acraiz.icpbrasil.gov.br/DPCacraiz.pdf0?U80604 2 0†.http://acraiz.icpbrasil.gov.br/LCRacraizv2.crl0U#0€9 :·Ë×(}A ÇúJ­2$¾0U9 :·Ë×(}A ÇúJ­2$¾0Uÿ0ÿ0Uÿ0
+	*†H†÷
+
+ ‚ Yšim})Cp}v›aßwŽvä©ÖËv¤L”ÆÑÅ­Ù-D¼²	v	€9g 4m
 æµYHºu`ü?ŽUp+žK•¬‰«
 w${aÄÇ‘&ŽFQ7¶Œ'
-Óðš+"ƒƒ³½ƒ5­›<¼xƒ)5a6øq3 TcSEØZ„;×f$·ÄFÅ"Øs$î–È%èÏß…Pm<ê÷Pž—Þ§kÛÖsÒÏ|PÀ°ŒåSz†9¬5[gÇêÔûÑÂ]ê—s˜®)¿ä:ó6P,íÞÛ…è„	îó¦ƒ3[oGyOHµü¸&«ª³ôaûEgó>nþ*K&DŸ±¢à<Úàä:x¬û¨¡M¿],w)Íï(Ø·ó[ÈÉž§~1ŠxbÄÑ¼c+‰Ýä\[2€DÔBì*óò@‡1Õ>â
+Ó
+ðš+"ƒƒ³½ƒ5­›<¼xƒ)5a6øq3 TcSEØZ„;×f$·ÄFÅ"Øs$î–È%èÏß…Pm<ê÷Pž—Þ§kÛÖsÒÏ|PÀ°ŒåSz†9¬5[gÇêÔûÑÂ]ê—s˜®)¿ä:ó6P,íÞÛ…è„	îó¦ƒ3[oGyOHµü¸&«ª³ôaûEgó>nþ*K&DŸ±¢à<Úàä:x¬û¨¡M¿],w)Íï(Ø·ó[ÈÉž§~1ŠxbÄÑ¼c+
+‰Ýä\[2€DÔBì*óò@‡1Õ>â
 2Õrmæýä¨óuw›
-¹ú’™eˆ2gCŽ-»5ñaèÙgwíåè-k4?Žƒ³÷êJ>5„Œ€4?©•èÃ­ÄÍžÊ,žä6‹¹¹£B%>ÃåÕhO f¦³¶s?@¹VBp‡ÿo-ýÿ÷…0ã1î'•ÌÉé™—Çm[µj=òEßº‚y$p.›‚f©¥m'Ìö*¢Ñ_…oàFªÒ¥NU0‚ü0‚ä >J×­Ö¬0	*†H†÷ 0u10	UBR10U
+¹ú’™eˆ2gCŽ-»5ñaèÙgwíåè-k4?Žƒ³÷êJ>5„Œ€4?©•èÃ­ÄÍžÊ,žä6‹¹¹£B%>ÃåÕhO f¦³¶s?@¹VBp‡ÿo-ýÿ÷…0ã1î'•ÌÉé™—Çm[µj=òEßº‚y$p.›‚f©¥m'Ìö*¢Ñ_…oàFªÒ¥NU0‚ü0‚ä >J×­Ö¬0
+	*†H†÷
+ 0u10	UBR10U
 
-ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10UAC SERASA RFB v20161224000000Z191216133942Z0ç10	UBR10	USP10UPINDAMONHANGABA10U
+ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10UAC SERASA RFB v20
+161224000000Z
+191216133942Z0ç10	UBR10	USP10UPINDAMONHANGABA10U
 
-ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10URFB e-CNPJ A310U	AR SERASA1806U/ZUIKO INDUSTRIA DE MAQUINAS LTDA:155007760001480‚"0	*†H†÷ ‚ 0‚
+ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10U
+RFB e-CNPJ A310U	AR SERASA1806U/ZUIKO INDUSTRIA DE MAQUINAS LTDA:155007760001480‚"0
+	*†H†÷
+ ‚ 0‚
 ‚ "–ñCÿ3ÊÆ±{¼šd·³»¼]É”t³JlËDT2XÞÏ¿~Ž-<øªµOÐÚÚ÷ðŠ¶£×YñãÉ™.œÓÁÅg}?oÐóŸ¹ã&3S-Ãú©ž,)5,8;B/@[ÕòÏ#ú+&p„›Œ Äñ´;ÙÌÎn~œ¾y`2ß¥Ã §þ®d+A§žëÎëCqÎÆéýðû9Áˆ;;¾	kÚ9y">"§ŽX¶nÎ¦Î™¼ôkû5<:à¨?Gì(>W Q¹E„)ÑÕ	Œ'£ô Xºüï‡ú-cíbæqÝˆ?—ÝÃûïŽSEÉÈ¢1Í£Z8"y©hy £‚0‚0™+Œ0‰0H+0†<http://www.certificadodigital.com.br/cadeias/serasarfbv2.p7b0=+0†1http://ocsp.certificadodigital.com.br/serasarfbv20	U0 0U#0€² Ä=Fž|È…l2”eFpAs0qU j0h0f`L
-0\0Z+Nhttp://publicacao.certificadodigital.com.br/repositorio/dpc/declaracao-rfb.pdf0óUë0è0J H F†Dhttp://www.certificadodigital.com.br/repositorio/lcr/serasarfbv2.crl0D B @†>http://lcr.certificados.com.br/repositorio/lcr/serasarfbv2.crl0T R P†Nhttp://repositorio.icpbrasil.gov.br/lcr/Serasa/repositorio/lcr/serasarfbv2.crl0Uÿà0U%0++0´U¬0©M-SUGIMOTO@ZUIKO.CO.JP `L MASAKAZU SUGIMOTO `L 15500776000148 =`L 422602196423885989824000000000000000000G291920GDPFDF `L 0000000000000	*†H†÷ ‚ —¶HÔ$h¼
+0\0Z+Nhttp://publicacao.certificadodigital.com.br/repositorio/dpc/declaracao-rfb.pdf0óUë0è0J H F†Dhttp://www.certificadodigital.com.br/repositorio/lcr/serasarfbv2.crl0D B @†>http://lcr.certificados.com.br/repositorio/lcr/serasarfbv2.crl0T R P†Nhttp://repositorio.icpbrasil.gov.br/lcr/Serasa/repositorio/lcr/serasarfbv2.crl0Uÿà0U%0++0´U¬0©M-SUGIMOTO@ZUIKO.CO.JP `L MASAKAZU SUGIMOTO `L 15500776000148 =`L 422602196423885989824000000000000000000G291920GDPFDF `L 0000000000000
+	*†H†÷
+ ‚ —¶HÔ$h¼
 }Ÿfáa(˜ïš_=£æµ=º‡ŒL¸ã²lÎ“¸N¨cjÝGÒhoµí¶ÂGU¾Œ!æ%š²ìà ‰Âú¼¬7’7ýA
-òãÈ‹$rmbá¤©c„„ê—‰Ü~-™Z€‚77ÈÖI9¯¾ÜÑ
-ýcÅ¯i ý“=ùÙ:¬2ë%f©rPMzH!bûÔ¸W²ª±Oï>£·“¶oV²F']áq ?‹Q„V)éŸ;˜_€üL,vüXÎ»íÌÁXº0\kî0i‡gÉd¨¬°Cµ&´¬hÓÙšÿ&OžèfÓq¥i!Ý—‹ÔÁÏ‰ºØV¹SÄM:Ý#n}löýëhûü5¸>¨o\™¹4°æß'Îú÷ÝT‘aócœÞÉ¼Qm–ÜƒØÊ¢=Xî’Vªb»RhHî	QËÇ5þSáh“ñÖ©›£Êš¯ZPˆµÓ£æ•"Ó÷ñjRDQ!ë¤ß$Ã¦ö¢M\TB:
-ÖTêãˆ|‰÷s›1æq5¨DòUáo¼«Ù6Sö\MýEÀO6yol ?£f¶e´.Þß¯DÑ—ºº£¦ÜˆWËñŠªçõØ=–"-Ÿ×•u<ˆjò™3qÏùŒËYJOq#Q^`o˜gU÷‰nmò0‚`0‚H 0	*†H†÷ 0—10	UBR10U
+òãÈ‹$rmbá¤©c„„ê—‰Ü~-™Z€
+‚77ÈÖI9¯¾ÜÑ
+ýcÅ¯i ý“=ùÙ:¬2ë%f©rPMzH!bûÔ¸W²ª±Oï>£·“¶o
+V²F'
+]áq ?‹Q„V)éŸ;˜_€üL,vüXÎ»íÌÁXº0\kî0i‡gÉd¨¬°Cµ&´¬hÓÙšÿ&OžèfÓq¥i!
+Ý—‹ÔÁÏ‰ºØV¹SÄM:Ý#n}löýëhûü5¸>¨o\™¹4°æß
+'Îú÷ÝT‘aócœÞÉ¼Qm–ÜƒØÊ¢=Xî’Vªb»RhHî	QËÇ5þSáh“ñÖ©›£Êš¯ZPˆµÓ£æ•"Ó÷ñjRDQ!ë¤ß$Ã¦ö¢M\TB:
+ÖTêãˆ|‰÷s›1æq5¨DòUáo¼«Ù6Sö\MýEÀO6yol ?£f¶e´.Þß¯DÑ—ºº£¦ÜˆWËñŠªçõØ=–"-Ÿ×•u<ˆjò™3qÏùŒËYJOq#Q^`o˜gU÷‰nmò0‚`0‚H 0
+	*†H†÷
+
+ 0—10	UBR10U
 
-ICP-Brasil1=0;U4Instituto Nacional de Tecnologia da Informacao - ITI1402U+Autoridade Certificadora Raiz Brasileira v20111021121629Z211021121629Z010	UBR10U
+ICP-Brasil1=0;U4Instituto Nacional de Tecnologia da Informacao - ITI1402U+Autoridade Certificadora Raiz Brasileira v20
+111021121629Z
+211021121629Z010	UBR10U
 
-ICP-Brasil1402U+Autoridade Certificadora Raiz Brasileira v21604U-AC Secretaria da Receita Federal do Brasil v30‚"0	*†H†÷ ‚ 0‚
+ICP-Brasil1402U+Autoridade Certificadora Raiz Brasileira v21604U-AC Secretaria da Receita Federal do Brasil v30‚"0
+	*†H†÷
+ ‚ 0‚
 ‚ Ár´ÂüN›G]5ˆ^=n›W@I)ëí¢ñ+4‘ô„mÊ~eƒSé 
 ?lQØÔüŽíJ¦®ŒžÍmfk(Ý\ÜiÁÒÝ~gjÿ#èð$…~ûIŸ¢ˆûõH…ò$±y7¼æ‡<à?LÚf™OçÈ@yŒÔ°2r‘M½¼Ú÷m^¶ —œ4ÒH»ì,íž³Õ¨·AuÞP«Vm
 D±ãÚY\‚î»´ìY„£Ym-è„[œ‰U–B üØÈÀF:,ÛT	¦FjöÃÚÅÖædÊU-n~0ak#æK}+ar8
-*]¨U}jÐqö¨‰¯-²^Åëyi­¤CÕAìläQá6O”Šl‹JÊSüüC|êíë<Žç²bgè{ŒV^w†Ê6êOîkkQ‘Âß…ð÷ü“b(–ÓÁ…Œ±ú¼HšGi½b³¼•œ2ýÈVäDu>ÖPì±ÙÕUõ´­¥ä@11óëGµÈš¾J±Ê‘JQ]x=9Ä\ÈFé)¸9¹¥÷Á_EOg¯'Xáqu­­œåÑCŠïO¾'Þè}SÊ^£9¬Ï¡q3D®ðéñØ”hØåyéj4+z–ï4Ï.¯?V7ÃÖþ¶°«$Õµ¿@µÂlmÿýž8„ÕÔ“b÷¹”½ã3b!kiÛ £»0¸0UuËºÑÎL§’ðq°Ë¾¸{3²(0Uÿ0ÿ0Uÿ0U 00	`L0 0?U80604 2 0†.http://acraiz.icpbrasil.gov.br/LCRacraizv2.crl0U#0€9 :·Ë×(}A ÇúJ­2$¾0	*†H†÷ ‚ ‰‰©…8ÔÙA¸é*~	g‹Ÿz)eQž¤Ö§¼áý÷jÿZßÆ‰š›èZyèÜf9Sü
+*]¨U}jÐqö¨‰¯-²^Åëyi­¤CÕAìläQá6O”Šl‹JÊSüüC|êíë<Žç²bgè{ŒV^w†Ê6êOîkkQ‘Âß
+…ð÷ü“b(–ÓÁ…Œ±ú¼HšGi½b³¼•œ2ýÈVäDu>ÖPì±ÙÕ
+Uõ´­¥ä@11óëGµÈš¾J±Ê‘JQ]x=9Ä\ÈFé)¸9¹¥÷Á_EOg¯'Xáqu­­œåÑCŠïO¾'Þè}SÊ^£9¬Ï¡q3D®ðéñØ”hØåyéj4+z–ï4Ï.¯?V7ÃÖþ¶°«$Õµ¿@µÂlmÿýž8„ÕÔ“b÷¹”½ã3b!kiÛ £»0¸0UuËºÑÎL§’ðq°Ë¾¸{3²(0Uÿ0ÿ0Uÿ0U 
+00	`L0 0?U80604 2 0†.http://acraiz.icpbrasil.gov.br/LCRacraizv2.crl0U#0€9 :·Ë×(}A ÇúJ­2$¾0
+	*†H†÷
+
+ ‚ ‰‰©…8ÔÙA¸é*~	g‹Ÿz)eQž¤Ö§¼áý÷jÿZ
+ßÆ‰š›èZyèÜf9Sü
 >‰ ˆ³+i KÖJ›½…õ‘.E§„%ªÝY²n›Pé\ ?pg)iîÍey´£íxŽéêEàäxJ—Óˆ™á|vª>u›b+3Ê¶~SâÛá±\Ž‹§ªõ4|®ŸäÖxÛ
-@Q¤’Ð·»Žû–¬1–;âþ~ç±½oÇb}..Œú]2W-ƒŒ&èÑÓp4ð/œ2L¥àoijL9’ïñàpMÐÌuZ²ûèÅ%Zn³q§M‚3ôËÔnlˆ$™~4ä|9|¼
+@Q¤’Ð·»Žû–¬1–;âþ~ç±½oÇb}..Œú]2W-ƒŒ&èÑÓp4ð/œ2L¥àoijL9’ïñ
+àpMÐÌuZ²ûèÅ%Zn³q§M‚3ôËÔnlˆ$™~4ä|9|¼
 ­èŠ”¦ÖÞ/üˆlá ­ 2Ù¹íÐ×d`¨sZ)Ë°LÚ
 äùñDM‹c?%ZåXIíQí§†þ6ú-ù •V¥Ä˜:·£¤ŸÐ ]_Fg[Ñ½~•"×€çðÜÅ[ç¾ðp_ôèSÎ½ªb”óù»í¦›ŠpYí®
-sÞÜ0qæ	/Bë,XŸ0¨ïfºËÇéÍoè³söÎÒ]œ`	)þgš²˜1Øß‚~-a<ù!£8bäêÿ[ª‘ ‰,kHG’(¼¸W~!‘(OŒ;eØæÿiMð`ä†<_›ôÐ%ÎàìÊÅë¹Q€!)˜  1‚;0‚700u10	UBR10U
+sÞÜ0qæ	/Bë,XŸ0¨ïfºËÇéÍoè³söÎÒ
+]œ`	)þgš²˜1Øß‚~-a<ù!£8bäêÿ[ª‘ ‰,kHG’(¼¸W~!‘(OŒ;eØæÿiMð`ä†<_›ôÐ%ÎàìÊÅë¹Q€!)˜  1‚;0‚700u10	UBR10U
 
-ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10UAC SERASA RFB v2>J×­Ö¬0	+  0	*†H†÷	1	*†H†÷0	*†H†÷	1190523163932Z0#	*†H†÷	1.A®,†ÀùÒ“Ñ§ÒŽÁíÏÐµ¢00
-+‚7X1" | 1 | 2 . 5 . 1 | 1 3 0 0 1 | 2 0	*†H†÷ ‚ ëÓ äŽl—®EÄÁal­‰#Û X¯H:@ÿíŒr´/ò”;i67yŠÉm¦öÍ«'€ã7žZþÐÕy:‹™rŠ'â˜e'ñçGièZ O+˜ä- £1ØOP÷éµâs®zð~ÞïnÒFcjKu÷œÆz¨ßÒbæþ>¾S¥ÕeÔø“·—ïMpÜYJ—%Ñš¨¬Œn÷¿VÅõÆÈûSN1T˜G¾yFháœõôEEgÉ|¾’†ò~!‹ŒÝþïªAb(û±e’¯£‰tcî±EšL6¤ìR‰á)ªØ92SÄc³—W2Ro&»7C×sŸ‰ê¢óøQCè      
+ICP-Brasil1604U-Secretaria da Receita Federal do Brasil - RFB10UAC SERASA RFB v2>J×­Ö¬0	+  0	*†H†÷
+	1	*†H†÷
+0	*†H†÷
+	1
+190523163932Z0#	*†H†÷
+	1.A®,†ÀùÒ“Ñ§ÒŽÁíÏÐµ¢00
++‚7X1" | 1 | 2 . 5 . 1 | 1 3 0 0 1 | 2 0
+	*†H†÷
+ ‚ ëÓ äŽl—®EÄÁal­‰#Û X¯H:@ÿíŒr´/ò”;i67yŠÉm¦öÍ«'€ã7žZþÐÕy:‹™rŠ'â˜e'ñçGièZ O+˜ä- £1ØOP÷éµâs®zð~ÞïnÒFcj
+Ku÷œÆz¨ßÒbæþ>¾S¥ÕeÔø“·—ïMpÜYJ—%Ñš¨¬Œn÷¿VÅõÆÈûSN1T˜G¾yFháœõôEEgÉ|¾’†ò~!‹ŒÝþïªAb(û±e’¯£‰tc
+î±EšL6¤ìR‰á)ªØ92SÄc³—W2Ro&»7C×sŸ‰ê¢óøQCè      

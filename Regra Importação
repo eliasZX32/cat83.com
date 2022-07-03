@@ -1,0 +1,6 @@
+Regra Importação
+	
+	1 - Só podera importar o mês subsequente ao ultimo mês que existe no arquivo
+	2 - O importador ira importar sempre um de cada vez
+	3 - Para importação anterior ao mês atual, será necessario excluir o meses anteriores
+	

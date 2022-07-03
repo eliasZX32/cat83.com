@@ -16,10 +16,25 @@ function importar_dados() {
 		type: 'post',
 		data: { mes_ano: document.getElementById("importarmesano").value }
 	}).done(function (data) {
-		if (data) {
-			//document.getElementById("error").textContent = data;
+
+		if(data){
+			let adata=data.split("|");
+			document.getElementById("inputexcluirmesano").removeAttribute("hidden"); 
+			document.getElementById("inputexcluirmesano").style.display="";
+			
+			document.getElementById("importarmesano").disabled = true;
+
+			document.getElementById("importarmesano").value = adata[0];
+			document.getElementById("excluirmesano").value = adata[1];				
+
+			document.getElementById("error").classList.add("alert-success");
+			document.getElementById("error").textContent = "EFD Processada com sucesso!";
+
+		}else{
+			document.getElementById("error").textContent = "Ocorreu um erro no procesamento!";
+			document.getElementById("error").classList.add("alert-danger");
 		}
-		//desligar_barra();
+
 
 	}).fail(function (xhr, textStatus, errorThrown) {
 		document.getElementById("error").textContent = "Ocorreu um erro -> " + xhr.status + " - " + xhr.statusText;
@@ -27,6 +42,44 @@ function importar_dados() {
 	});
 
 }
+
+
+function excluir_dados() {
+
+	document.getElementById("error").textContent = "";
+	document.getElementById("error").classList.remove("alert-danger");
+
+	$.ajax({
+		url: 'processing/import/excluir_dados_efd.php',
+		async: true,
+		type: 'post',
+		data: { mes_ano: document.getElementById("excluirmesano").value }
+	}).done(function (data) {
+		if(data.indexOf("erro") > 0){
+			document.getElementById("error").classList.add("alert-danger");
+			document.getElementById("error").textContent = data;
+		}else{
+			if(data){
+				let adata=data.split("|");
+				document.getElementById("importarmesano").value = adata[0];
+				document.getElementById("excluirmesano").value = adata[1];				
+			}else{
+				document.getElementById("importarmesano").value = "";
+				document.getElementById("excluirmesano").value = "";
+				document.getElementById("inputexcluirmesano").style.display='none';
+				document.getElementById("importarmesano").disabled = false;		
+			}
+
+			document.getElementById("error").classList.add("alert-success");
+			document.getElementById("error").textContent = "Excluido com sucesso!";
+		}
+
+	}).fail(function (xhr, textStatus, errorThrown) {
+		document.getElementById("error").classList.add("alert-danger");
+		document.getElementById("error").textContent = "Ocorreu um erro -> " + xhr.status + " - " + xhr.statusText;		
+	});
+}
+
 
 function ligar_barra() {
  	$('#title_barra').show();	
